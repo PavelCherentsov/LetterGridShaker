@@ -1,3 +1,3 @@
-# LetterGridShaker
+# LettersShaker
 
-![]("demo.gif")
+![](demo.gif)
