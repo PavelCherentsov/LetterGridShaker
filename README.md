@@ -1,1 +1,3 @@
 # LetterGridShaker
+
+![]("demo.gif")
